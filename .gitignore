@@ -1,0 +1,7 @@
+build-*/
+venv/
+__pycache__/
+.vscode/
+TMP/
+.gdb_history
+core
